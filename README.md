@@ -1,8 +1,16 @@
 ### Hi, I’m Masum Al Mahmud Nomayer 👋 | Aspiring Data Analyst 
 
-### Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nomayer) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nomayer.masum@gmail.com)  
+### Connect with Me  
+
+<a href="https://linkedin.com/in/nomayer" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="mailto:nomayer.masum@gmail.com">
+  <img src="https://upload.wikimedia.org/official-logos/gmail-icon.png" alt="Gmail" width="40" height="40"/>
+</a>
+
+
+
 
 ### About Me  
 I am passionate about data analysis and continuously building my skills.  
