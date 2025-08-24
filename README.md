@@ -12,7 +12,7 @@ I am **skilled in**:
 - **Power BI**  
 - **MySQL**  
 - **Python**
----
+
 [![](https://visitcount.itsvg.in/api?id=nomayer-masum&icon=5&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
