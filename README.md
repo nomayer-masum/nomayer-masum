@@ -9,7 +9,7 @@ I am **skilled in**:
 - **SQL**  
 - **Python**  
 
-### Connect with Me  
+### Contact with Me  
 - [LinkedIn](https://linkedin.com/in/nomayer)  
 - [Email](mailto:nomayer.masum@gmail.com)  
 
