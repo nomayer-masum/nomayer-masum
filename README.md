@@ -6,7 +6,7 @@ I am passionate about data analysis and continuously building my skills.
 I am **skilled in**:  
 - **Excel**  
 - **Power BI**  
-- **MySQL**  
+- **SQL**  
 - **Python**  
 
 ### Connect with Me  
