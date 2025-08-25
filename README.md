@@ -13,5 +13,5 @@ I am **skilled in**:
 - [LinkedIn](https://linkedin.com/in/nomayer)  
 - [Email](mailto:nomayer.masum@gmail.com)  
 
-![Visitor Count](https://profile-counter.glitch.me/nomayer-masum/count.svg)
+
 
