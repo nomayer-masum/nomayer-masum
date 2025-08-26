@@ -1,4 +1,4 @@
-### Hi, I’m Masum Al Mahmud Nomayer | Aspiring Data Analyst  
+### Hi, I’m Masum Al Mahmud Nomayer 
 
 
 ### About Me  
