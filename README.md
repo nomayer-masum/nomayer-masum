@@ -2,14 +2,7 @@
 
 
 ### About Me  
-I am passionate about **data analysis** and building strong foundations in:  
-- **Data Cleaning & Preparation**  
-- **Exploratory Data Analysis (EDA)**  
-- **Visualization & Storytelling**  
-- **SQL for querying databases**  
-- **Python for data manipulation and analysis**  
-
-I enjoy turning **raw data into meaningful insights** that support better decision-making.  
+Skilled in Excel, Power BI, and SQL, with growing expertise in Python. Experienced in data analysis, visualization, and quality assurance from roles in survey validation and data processing. Passionate about turning raw data into actionable insights to support business decisions.
 
 ### Tech Stack  
 
