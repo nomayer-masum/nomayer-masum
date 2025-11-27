@@ -3,7 +3,7 @@
 ### About Me  
 I am a **Data Analyst Enthusiast** with a background as a **Data Artist**, where I worked on visualizing market research data and ensuring data quality.  
 
-- Skilled in **Excel, Power BI, and SQL**, with growing expertise in **Python**  
+- Skilled in **Excel, Power BI, SQL and Metabase**, with growing expertise in **Python**  
 - Hands-on experience with projects like **RFM Segmentation** and **Customer Cohort Analysis**  
 - Passionate about building dashboards and visual stories that help businesses make **data-driven decisions**  
 
@@ -15,7 +15,7 @@ I am motivated to join a **collaborative, data-driven environment** where I can 
 ### 🔧 Tech Stack  
 
 <p align="center">
-Excel &nbsp; | &nbsp; Power BI &nbsp; | &nbsp; SQL (MySQL) &nbsp; | &nbsp; Python &nbsp; | &nbsp; C
+Excel &nbsp; | &nbsp; Power BI &nbsp; | &nbsp; SQL &nbsp; | &nbsp; Metabase &nbsp; | &nbsp; Python &nbsp; | &nbsp; C
 </p>  
 
 ---
