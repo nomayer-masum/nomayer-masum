@@ -15,7 +15,7 @@ I am motivated to join a **collaborative, data-driven environment** where I can 
 ### 🔧 Tech Stack  
 
 <p align="center">
-Excel &nbsp; | &nbsp; Power BI &nbsp; | &nbsp; SQL &nbsp; | &nbsp; Metabase &nbsp; | &nbsp; Python &nbsp; | &nbsp; C
+Excel &nbsp; | &nbsp; Power BI &nbsp; | &nbsp; SQL &nbsp; | &nbsp; Metabase &nbsp; | &nbsp; Python &nbsp; | &nbsp; Appsmith
 </p>  
 
 ---
